@@ -1,0 +1,27 @@
+-> pwd--to know the current path of the file.
+-> cd ..--go to previous page
+-> ls---to see the files or directories inside the directory
+-> escape i---convert into insert mode
+-> cat filename----to read the data in the file
+-------------------------------------------------------------------------------------------------------------------
+
+29/5/2023
+
+To create windows operating system in Linux(using commands)
+key pair name--SampleWindows
+create key pair then it download a .pem file.
+
+
+->df-h-----to create disc like c drive(local disc C) in windows.creates temporary files(includes size, memory and etc) and dev/root disc
+
+->du -sh/directory name------ to know the size or memory occupied by the directory.
+
+->ps -ef----to know the process related information.
+
+->head -2 filename------to display the first two line of the file.
+->tail -2 filename-----to display the bottom two lines of the file.
+
+
+  
+
+
